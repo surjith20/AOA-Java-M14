@@ -30,8 +30,8 @@ If the given amount cannot be formed using the available denominations, return *
 ```java
 /*
 Coin Change using Dynamic Programming
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 
 import java.util.*;
